@@ -1,0 +1,70 @@
+h1 {
+	background: grey;
+	font-size: 30px;
+	width: 14vw;
+	color: blue;
+	margin-left: 400px;
+}
+
+<span class="material-icons">
+info
+</span>
+
+h2 {
+	color: green;
+	font-family: 'Playfair Display';
+	margin-left: px;
+}
+
+h3 {
+	color: red;
+	font-family: 'Playfair Display';
+}
+
+img {
+	padding: 30px;
+	background-color: grey;
+	margin-left: 400px;
+}
+
+p {
+	background-color: red;
+	width: 1000px;
+	height: 250px;
+	border-width: thin;
+	border-style: dotted;
+	border-color: black;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	margin-left: 300px;
+
+}
+
+nav {
+	margin-left: 300px;
+}
+
+a {
+	color: green;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.Inf {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.con {
+	background-color: green;
+	width: 200px;
+	height: 32px;
+	border-width: thin;
+	border-style: dotted;
+	border-color: black;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
